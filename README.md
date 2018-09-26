@@ -133,7 +133,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - `yarn add select-dom` / `npm i -S select-dom`
 - [memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
   - `yarn add memoizee` / `npm i -S memoizee`
-- [memoize-one: A memoization library which only remembers the latest invocation](https://github.com/alexreardon/memoize-one)
+- [memoize-one](https://github.com/alexreardon/memoize-one) A memoization library which only remembers the latest invocation
 - [kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast.
   - `yarn add kind-of` / `npm i -S kind-of`
 - [iterare: Array methods + ES6 Iterators =](https://github.com/felixfbecker/iterare)
@@ -146,9 +146,9 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [text-mask: Input mask for React, Angular, Ember, Vue, & plain JavaScript](https://github.com/text-mask/text-mask)
 - [fast-equals: A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
 - [fast-copy: A blazing fast deep object copier](https://github.com/planttheidea/fast-copy)
-- [compute-scroll-into-view: Utility for calculating what should be scrolled, how it's scrolled is up to you](https://github.com/stipsan/compute-scroll-into-view)
+- [compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) Utility for calculating what should be scrolled, how it's scrolled is up to you
 - [arr: A collection of tiny, highly performant Array.prototype alternatives](https://github.com/lukeed/arr)
-- 
+- [timedstorage](https://github.com/fuhton/timedstorage) A library for storing and expiring objects in window.localstorage
 
 ### Async
 
@@ -180,7 +180,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 #### Image services
 
-- [sharp: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.](https://github.com/lovell/sharp)
+- [sharp](https://github.com/lovell/sharp) High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 - [IMGIX](https://www.imgix.com/) - Real-time image processing and image CDN
 
 ### Date
@@ -208,10 +208,10 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 ### Animation
 
-- [Popmotion: Monorepo for Popmotion and Pose animation packages](https://github.com/Popmotion/popmotion)
-- [ramjet: Morph DOM elements from one state to another with smooth animations and transitions](https://github.com/Rich-Harris/ramjet)
-- [anime: JavaScript Animation Engine](https://github.com/juliangarnier/anime)
-- [GSAP, the standard for JavaScript HTML5 animation | GreenSock](https://greensock.com/)
+- [Popmotion](https://github.com/Popmotion/popmotion) Simple animation libraries for delightful user interfaces
+- [ramjet](https://github.com/Rich-Harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
+- [anime](https://github.com/juliangarnier/anime) JavaScript Animation Engine
+- [GSAP](https://greensock.com/) the standard for JavaScript HTML5 animation | GreenSock
 
 ### Web workers
 
@@ -234,13 +234,13 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 ### Polyfills
 
-- [que-etc/resize-observer-polyfill: A polyfill for the Resize Observer API](https://github.com/que-etc/resize-observer-polyfill)
+- [que-etc/resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) A polyfill for the Resize Observer API
 
 ## React
 
-- [create-react-app: Create React apps with no build configuration.](https://github.com/facebook/create-react-app)
-  - [react-app-rewired: Override create-react-app webpack configs without ejecting](https://github.com/timarney/react-app-rewired)
-- [react-bits: ✨ React patterns, techniques, tips and tricks ✨](https://github.com/vasanthk/react-bits)
+- [create-react-app](https://github.com/facebook/create-react-app) Create React apps with no build configuration
+  - [react-app-rewired](https://github.com/timarney/react-app-rewired) Override create-react-app webpack configs without ejecting
+- [react-bits](https://github.com/vasanthk/react-bits) ✨ React patterns, techniques, tips and tricks ✨
 
 ### React-specific libs:
 
@@ -255,7 +255,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - `yarn add react-portal` / `npm i -S react-portal`
 - [react-ideal-image: 🖼️ An Almost Ideal React Image Component](https://github.com/stereobooster/react-ideal-image)
 - [react-adopt: Compose render props components like a pro](https://github.com/pedronauck/react-adopt)
-- [downshift: 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift)
+- [downshift](https://github.com/paypal/downshift)
 - [react-loadable: A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
 - [react-portal: React component for transportation of modals, lightboxes, loading bars... to document.body](https://github.com/tajo/react-portal)
 
@@ -299,9 +299,9 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 # Design Systems and documentation
 
-- [Storybook - UI dev environment you'll love to use](https://storybook.js.org/)
+- [Storybook](https://storybook.js.org/) UI dev environment you'll love to use
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-- [Docusaurus · Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
+- [Docusaurus](https://docusaurus.io/) Easy to Maintain Open Source Documentation Websites
 - [Docz](https://www.docz.site/)
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Design system framework for modern front-end projects
 
@@ -311,11 +311,11 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - `yarn add jest` / `npm i -S jest`
   - [majestic](https://github.com/Raathigesh/majestic) - Zero config UI for Jest
 - [Cypress](https://cypress.io) - end-to-end testing
-  - [cypress-testing-library: 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices.](https://github.com/kentcdodds/cypress-testing-library)
-- [dom-testing-library: 🐙 Simple and complete DOM testing utilities that encourage good testing practices.](https://github.com/kentcdodds/dom-testing-library)
+  - [cypress-testing-library](https://github.com/kentcdodds/cypress-testing-library) 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices
+- [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) 🐙 Simple and complete DOM testing utilities that encourage good testing practices
 - [react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.](https://github.com/kentcdodds/react-testing-library)
 - [Chance](https://github.com/chancejs/chancejs) - Random generator helper for JavaScript
-- [faker.js: generate massive amounts of fake data in Node.js and the browser](https://github.com/Marak/faker.js)
+- [faker.js](https://github.com/Marak/faker.js) generate massive amounts of fake data in Node.js and the browser
 - [nock](https://github.com/nock/nock) HTTP server mocking and expectations library for Node.js
 
 # Progressive Web Apps
@@ -393,7 +393,8 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 - [WebPageTest](https://www.webpagetest.org/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-- [Calibre](https://calibreapp.com/)
+- [Calibre](https://calibreapp.com/) web performance monitoring
+- [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/) by Cloudinary
 
 # Accessibility (A11y)
 

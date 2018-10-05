@@ -349,7 +349,8 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 # Conversions and unicode
 
-- [Transform](https://transform.now.sh/) All important transforms at one place
+- [Transform](https://transform.now.sh/) All important transforms at one place ⭐️⭐️⭐️ this is so useful
+- [SVGR](https://svgr.now.sh/) The SVG to JSX transformer
 - [svg2jsx](https://svg2jsx.herokuapp.com/)
 - [JSON to JavaScript object literal | Online Tool](https://json-to-js.com/)
 - [Unminify JS, CSS and HTML Code](https://unminify.com/)

@@ -1,4 +1,4 @@
-# Zander's go-to web development resources
+<h1 align="center">👌<br>Awesome Web Development Resources</h1>
 
 <details>
   <summary>Table of contents</summary>

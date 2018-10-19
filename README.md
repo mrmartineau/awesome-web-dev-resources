@@ -70,6 +70,7 @@
 - [Shields.io](https://shields.io/) - ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes
 - [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
 - [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 
 # CSS
 

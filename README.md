@@ -1,4 +1,13 @@
-<h1 align="center">👌<br>Awesome Web Development Resources</h1>
+<div align="center">
+  <h1>
+    👌
+    <br>
+    Awesome Web Development Resources
+  </h1>
+
+  ![](https://badgen.net/github/last-commit/mrmartineau/awesome-web-dev-resources)
+
+</div>
 
 <details>
   <summary>Table of contents</summary>
@@ -67,6 +76,7 @@
 - [Devdocs.io](http://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [DevHints](https://devhints.io/) - cheatsheets for many web technologies
 - [Carbon](<https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&l=auto&ds=true&wc=true&wa=true&pv=32px&ph=32px&ln=false>) - use this to share images of your code in presentations etc
+- [Badgen](https://badgen.net/) ![](https://badgen.net/badge/add/flare)
 - [Shields.io](https://shields.io/) - ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes
 - [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
 - [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format

@@ -351,10 +351,16 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 # HTML
 
 - [github.com/joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) the definitive resource for everything that _could_ go in the head of your document
+- [MetaTags.io](https://metatags.io/) — Preview, Edit and Generate
+- [HEY META](https://www.heymeta.com/) - Website Meta Tag Check
+- [Rich Link Preview](https://richpreview.com/)
+
+# SVG/Image Media compression
+- [Squoosh](https://squoosh.app/)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGO's Missing GUI
 
 # SVG
 
-- [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGO's Missing GUI
 - [flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations
   - `yarn add flubber` / `npm i -S flubber`
 
@@ -408,6 +414,10 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Calibre](https://calibreapp.com/) web performance monitoring
 - [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/) by Cloudinary
 
+# Design
+
+- [Subtract Guides - Simple Rules for Designing Web & Mobile Forms](https://subtract.design/entry/forms)
+
 # Accessibility (A11y)
 
 Accessibility is an extremely important part of any web project. While the SOW, functional spec or user-stories might not directly mention a11y, it is up to each developer to ensure that best efforts are made to make our websites as accessible as possible.
@@ -428,6 +438,8 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 - [Color contrast checker](http://leaverou.github.io/contrast-ratio/)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) - An prototype to help designers build accessible color palettes
 - [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+- [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/)
+- 
 
 ### A11y Chrome extensions
 
@@ -478,4 +490,4 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 --- 
 
-> If you think there are better alternatives, or that there should be something added to the list, please [reate an issue](https://github.com/mrmartineau/awesome-web-dev-resources/issues/new) or [create a pull request](https://github.com/mrmartineau/awesome-web-dev-resources/pulls)
+> If you think there are better alternatives, or that there should be something added to the list, please [create an issue](https://github.com/mrmartineau/awesome-web-dev-resources/issues/new) or [create a pull request](https://github.com/mrmartineau/awesome-web-dev-resources/pulls)

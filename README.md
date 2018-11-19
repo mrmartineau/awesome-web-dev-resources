@@ -269,6 +269,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [downshift](https://github.com/paypal/downshift)
 - [react-loadable: A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
 - [react-portal: React component for transportation of modals, lightboxes, loading bars... to document.body](https://github.com/tajo/react-portal)
+- [lingui/js-lingui: 🌍📖](https://github.com/lingui/js-lingui) - A readable, automated, and optimized (5 kb) internationalization (Intl / i18n) for JavaScript
 
 ### State management
 

@@ -81,6 +81,7 @@
 - [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
 - [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
+- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules with no fuss 📦👌
 
 # CSS
 
@@ -158,7 +159,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [fast-equals: A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
 - [fast-copy: A blazing fast deep object copier](https://github.com/planttheidea/fast-copy)
 - [compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) Utility for calculating what should be scrolled, how it's scrolled is up to you
-- [arr: A collection of tiny, highly performant Array.prototype alternatives](https://github.com/lukeed/arr)
+- [arr](https://github.com/lukeed/arr) A collection of tiny, highly performant Array.prototype alternatives
 - [timedstorage](https://github.com/fuhton/timedstorage) A library for storing and expiring objects in window.localstorage
 
 ### Async
@@ -169,13 +170,13 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - `yarn add cross-fetch` / `npm i -S cross-fetch`
 - [awaity](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with `async` / `await` in mind
   - `yarn add awaity` / `npm i -S awaity`
-- [loadjs: A tiny async loader / dependency manager for modern browsers (789 bytes)](https://github.com/muicss/loadjs)
+- [loadjs](https://github.com/muicss/loadjs) A tiny async loader / dependency manager for modern browsers (789 bytes)
 
 ### Node
 
 - [Express](https://expressjs.com)
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-- [dumper.js: A better and pretty variable inspector for your Node.js applications](https://github.com/zeeshanu/dumper.js)
+- [dumper.js](https://github.com/zeeshanu/dumper.js) A better and pretty variable inspector for your Node.js applications
 
 ### Responsive
 
@@ -245,7 +246,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 ### Polyfills
 
-- [que-etc/resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) A polyfill for the Resize Observer API
+- [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) A polyfill for the Resize Observer API
 
 ## React
 
@@ -258,31 +259,31 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [react-powerplug: Renderless Containers](https://github.com/renatorib/react-powerplug)
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
   - `yarn add formik` / `npm i -S formik`
-- [react-router: Declarative routing for React](https://github.com/ReactTraining/react-router)
+- [react-router](https://github.com/ReactTraining/react-router) Declarative routing for React
 - [Reach Router](https://reach.tech/router)
 - [react-fns](https://react-fns.netlify.com/) - React Components for common Web APIs
   - `yarn add react-fns` / `npm i -S react-fns`
 - [react-portal](https://github.com/tajo/react-portal) - React component for transportation of modals, lightboxes, loading bars... to document.body
   - `yarn add react-portal` / `npm i -S react-portal`
-- [react-ideal-image: 🖼️ An Almost Ideal React Image Component](https://github.com/stereobooster/react-ideal-image)
-- [react-adopt: Compose render props components like a pro](https://github.com/pedronauck/react-adopt)
+- [react-ideal-image](https://github.com/stereobooster/react-ideal-image) 🖼️ An Almost Ideal React Image Component
+- [react-adopt](https://github.com/pedronauck/react-adopt) Compose render props components like a pro
 - [downshift](https://github.com/paypal/downshift)
-- [react-loadable: A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
-- [react-portal: React component for transportation of modals, lightboxes, loading bars... to document.body](https://github.com/tajo/react-portal)
-- [lingui/js-lingui: 🌍📖](https://github.com/lingui/js-lingui) - A readable, automated, and optimized (5 kb) internationalization (Intl / i18n) for JavaScript
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) A higher order component for loading components with promises
+- [react-portal](https://github.com/tajo/react-portal) React component for transportation of modals, lightboxes, loading bars... to document.body
+- [js-lingui: 🌍📖](https://github.com/lingui/js-lingui) - A readable, automated, and optimized (5 kb) internationalization (Intl / i18n) for JavaScript
 
 ### State management
 
-- [redux: Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
+- [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps
   - `yarn add react-redux` / `npm i -S react-redux`
-  - [reselect: Selector library for Redux](https://github.com/reduxjs/reselect)
-  - [redux-saga: An alternative side effect model for Redux apps](https://github.com/redux-saga/redux-saga)
-  - [redux-thunk: Thunk middleware for Redux](https://github.com/reduxjs/redux-thunk)
-  - [awesome-redux: Catalog of Redux Libraries & Learning Material](https://github.com/brillout/awesome-redux)
+  - [reselect](https://github.com/reduxjs/reselect) Selector library for Redux
+  - [redux-saga](https://github.com/redux-saga/redux-saga) An alternative side effect model for Redux apps
+  - [redux-thunk](https://github.com/reduxjs/redux-thunk) Thunk middleware for Redux
+  - [awesome-redux](https://github.com/brillout/awesome-redux) Catalog of Redux Libraries & Learning Material
 - [parket](https://github.com/ForsakenHarmony/parket) - A library to manage application state, heavily inspired by mobx-state-tree
   - `yarn add parket` / `npm i -S parket`
-- [unstated: State so simple, it goes without saying](https://github.com/jamiebuilds/unstated)
-- [mergeState: How to Stop Worrying and Use Nested Object/Array in React/Redux States](https://github.com/zhujinxuan/mergeState)
+- [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
+- [mergeState](https://github.com/zhujinxuan/mergeState) How to Stop Worrying and Use Nested Object/Array in React/Redux States
 
 ### Server-rendered React
 

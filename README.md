@@ -278,6 +278,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - `yarn add react-redux` / `npm i -S react-redux`
   - [reselect](https://github.com/reduxjs/reselect) Selector library for Redux
   - [redux-saga](https://github.com/redux-saga/redux-saga) An alternative side effect model for Redux apps
+    - [redux-saga-routines](https://github.com/afitiskin/redux-saga-routines) Routines for redux-saga
   - [redux-thunk](https://github.com/reduxjs/redux-thunk) Thunk middleware for Redux
   - [awesome-redux](https://github.com/brillout/awesome-redux) Catalog of Redux Libraries & Learning Material
 - [parket](https://github.com/ForsakenHarmony/parket) - A library to manage application state, heavily inspired by mobx-state-tree

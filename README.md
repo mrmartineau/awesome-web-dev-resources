@@ -82,6 +82,8 @@
 - [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules with no fuss 📦👌
+- [pika](https://www.pikapkg.com/) a searchable catalog of modern "module" packages on npm
+- [npms](https://npms.io/) A better and open source search for node packages
 
 # CSS
 

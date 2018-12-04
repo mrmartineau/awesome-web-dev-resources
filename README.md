@@ -330,6 +330,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Chance](https://github.com/chancejs/chancejs) - Random generator helper for JavaScript
 - [faker.js](https://github.com/Marak/faker.js) generate massive amounts of fake data in Node.js and the browser
 - [nock](https://github.com/nock/nock) HTTP server mocking and expectations library for Node.js
+- [Stryker Mutator](http://stryker-mutator.io/)
 
 # Progressive Web Apps
 

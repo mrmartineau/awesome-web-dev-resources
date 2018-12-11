@@ -163,6 +163,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) Utility for calculating what should be scrolled, how it's scrolled is up to you
 - [arr](https://github.com/lukeed/arr) A collection of tiny, highly performant Array.prototype alternatives
 - [timedstorage](https://github.com/fuhton/timedstorage) A library for storing and expiring objects in window.localstorage
+- [left-pad](https://github.com/stevemao/left-pad) - String left pad
 
 ### Async
 

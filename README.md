@@ -133,6 +133,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Just](https://github.com/angus-c/just) - A library of dependency-free utilities that do just do one thing (like Lodash but smaller)
   - Install each util independently
   - Read the [tradeoffs document](https://github.com/angus-c/just/blob/master/TRADEOFFS.md) to see if Lodash is better
+- [tiny-get](https://github.com/NickGard/tiny-get) - A minimal-weight lodash.get equivalent utility
 - [auto-bind](https://github.com/sindresorhus/auto-bind) - Automatically bind methods to their class instance
 - [object-get](https://github.com/75lb/object-get) - Access nested property values at any depth with a simple expression
 - [liteready](https://github.com/nicbell/liteready) - A lightweight DOM ready.

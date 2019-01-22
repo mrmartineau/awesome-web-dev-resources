@@ -89,6 +89,10 @@
 - [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
 - [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+
+## Finding npm packages
+
 - [pika](https://www.pikapkg.com/) a searchable catalog of modern "module" packages on npm
 - [npms](https://npms.io/) A better and open source search for node packages
 
@@ -124,6 +128,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/)
 - [Does it mutate?](https://doesitmutate.xyz/)
 - [jsPerf](https://jsperf.com/) - JavaScript performance playground
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## Framework agnostic packages
 
@@ -301,6 +306,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules
 - [rollup.js](https://rollupjs.org/guide/en) - Rollup is a module bundler for JavaScript
 - [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection. Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+
 # Tooling
 
 ## Package management and publishing
@@ -405,7 +411,6 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 # Design
 
 - [Subtract Guides - Simple Rules for Designing Web & Mobile Forms](https://subtract.design/entry/forms)
-
 
 # Design Systems and documentation
 

@@ -101,6 +101,10 @@
 - [npms](https://npms.io/) A better and open source search for node packages
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 
+Use [Bundlephobia](https://bundlephobia.com/) to see the cost of any npm packages
+
+Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm package. Search their database here: `https://snyk.io/vuln/npm:{package}` e.g. https://snyk.io/vuln/npm:react
+
 # 🎨 CSS
 
 - [CSS Tricks "Complete Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -121,10 +125,6 @@
 - [styled-by](https://github.com/brunobertolini/styled-by) Simple and powerful lib to handle styled props in your components
 
 # JavaScript
-
-Use [Bundlephobia](https://bundlephobia.com/) to see the cost of any npm packages
-
-Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm package. Search their database here: `https://snyk.io/vuln/npm:{package}` e.g. https://snyk.io/vuln/npm:react
 
 ## Useful JS links
 

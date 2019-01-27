@@ -5,7 +5,7 @@
     Awesome Web Development Resources
   </h1>
 
-  ![](https://badgen.net/github/last-commit/mrmartineau/awesome-web-dev-resources)
+![](https://badgen.net/github/last-commit/mrmartineau/awesome-web-dev-resources)
 
 </div>
 
@@ -14,9 +14,9 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [General resources](#general-resources)
-- [CSS](#css)
+  - [Finding npm packages](#finding-npm-packages)
+- [🎨 CSS](#-css)
   - [CSS-in-JS](#css-in-js)
 - [JavaScript](#javascript)
   - [Useful JS links](#useful-js-links)
@@ -35,14 +35,18 @@
     - [Immutable](#immutable)
     - [Typography](#typography)
     - [Polyfills](#polyfills)
-  - [React](#react)
+  - [⚛️ React](#-react)
     - [React-specific libs:](#react-specific-libs)
+    - [React patterns](#react-patterns)
     - [State management](#state-management)
     - [Server-rendered React](#server-rendered-react)
     - [Static site generators](#static-site-generators)
-- [TypeScript](#typescript)
-- [Microservices/Serverless](#microservicesserverless)
+    - [Microservices/Serverless](#microservicesserverless)
+  - [TypeScript](#typescript)
 - [Code bundlers](#code-bundlers)
+- [Command Line, Terminal and shells](#command-line-terminal-and-shells)
+  - [Creating CLI apps](#creating-cli-apps)
+  - [CLI apps](#cli-apps)
 - [Tooling](#tooling)
   - [Package management and publishing](#package-management-and-publishing)
   - [Commit hooks](#commit-hooks)
@@ -95,8 +99,9 @@
 
 - [pika](https://www.pikapkg.com/) a searchable catalog of modern "module" packages on npm
 - [npms](https://npms.io/) A better and open source search for node packages
+- [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 
-# CSS
+# 🎨 CSS
 
 - [CSS Tricks "Complete Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS Tricks "Complete Guide to Grid"](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -164,6 +169,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [arr](https://github.com/lukeed/arr) A collection of tiny, highly performant Array.prototype alternatives
 - [timedstorage](https://github.com/fuhton/timedstorage) A library for storing and expiring objects in window.localstorage
 - [left-pad](https://github.com/stevemao/left-pad) - String left pad
+- [dont-go](https://github.com/tiaanduplessis/dont-go) - A small client-side library with zero dependencies to change the title and/or favicon of the page when it is inactive
 
 ### Async
 
@@ -235,7 +241,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 - [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) A polyfill for the Resize Observer API
 
-## React
+## ⚛️ React
 
 [reactjs.org](https://reactjs.org)
 
@@ -260,6 +266,11 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [react-mq](https://github.com/u-wave/react-mq) - Barebones CSS media query component for React, ~560 bytes
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React. This is SSR compatible as well.
 
+### React patterns
+
+- [Hooks.Guide](https://www.hooks.guide/) - Collection of React hooks curated by the community
+- [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes
+
 ### State management
 
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps
@@ -276,14 +287,18 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 - [Next.js](https://nextjs.org/) ([repo](https://github.com/zeit/next.js)) - Framework for server-rendered or statically-exported React apps
   - [next-plugins](https://github.com/zeit/next-plugins)
-- [after.js](https://github.com/jaredpalmer/after.js) - If Next.js and React Router had a baby...
-- [razzle ✨](https://github.com/jaredpalmer/razzle) Create server-rendered universal JavaScript applications with no configuration
 
 ### Static site generators
 
 - [gatsby: ⚛️📄🚀](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
 
-# TypeScript
+### Microservices/Serverless
+
+- [micro](https://github.com/zeit/micro)
+  - [awesome-micro](https://github.com/amio/awesome-micro)
+
+## TypeScript
+
 [typescriptlang.org](https://www.typescriptlang.org/)
 
 - [What's new in TypeScript](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript) · Microsoft/TypeScript Wiki
@@ -291,11 +306,6 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [TypeScript Evolution](https://blog.mariusschulz.com/series/typescript-evolution) | Marius Schulz
 - [JSON to Typescript Interface](https://transform.now.sh/json-to-ts-interface/)
 - [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - a cheatsheet for react users using typescript with react for the first (or nth!) time
-
-# Microservices/Serverless
-
-- [micro](https://github.com/zeit/micro)
-  - [awesome-micro](https://github.com/amio/awesome-micro)
 
 # Code bundlers
 
@@ -306,6 +316,26 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules
 - [rollup.js](https://rollupjs.org/guide/en) - Rollup is a module bundler for JavaScript
 - [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection. Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+
+# Command Line, Terminal and shells
+
+[Fish shell](https://fishshell.com/) - The user-friendly command line shell
+
+- [my fish_config](https://github.com/mrmartineau/fish-config/blob/master/fish/config.fish)
+
+## Creating CLI apps
+
+- [gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building Node-powered CLIs
+- [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
+- [commander](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [sade](https://github.com/lukeed/sade) - Sade is a small but powerful tool for building command-line interface (CLI) applications for Node.js that are fast, responsive, and helpful!
+
+## CLI apps
+
+- [hub](https://hub.github.com/) - hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal
+- [serve](https://github.com/zeit/serve) - Static file serving and directory listing
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 
 # Tooling
 
@@ -375,6 +405,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Rich Link Preview](https://richpreview.com/)
 
 # SVG/Image Media compression
+
 - [Squoosh](https://squoosh.app/)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGO's Missing GUI
 

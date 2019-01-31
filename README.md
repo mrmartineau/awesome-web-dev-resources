@@ -1,3 +1,5 @@
+# Go-to resources
+
 <div align="center">
   <h1>
     👌
@@ -55,6 +57,7 @@
 - [Progressive Web Apps](#progressive-web-apps)
 - [Code Sandboxes](#code-sandboxes)
 - [APIs](#apis)
+- [JSON](#json)
 - [HTML](#html)
 - [SVG/Image Media compression](#svgimage-media-compression)
 - [SVG](#svg)
@@ -90,15 +93,13 @@
 - [Carbon](<https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&l=auto&ds=true&wc=true&wa=true&pv=32px&ph=32px&ln=false>) - use this to share images of your code in presentations etc
 - [Badgen](https://badgen.net/) ![](https://badgen.net/badge/add/flare)
 - [Shields.io](https://shields.io/) - ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes
-- [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
-- [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
-- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 
 ## Finding npm packages
 
 - [pika](https://www.pikapkg.com/) a searchable catalog of modern "module" packages on npm
 - [npms](https://npms.io/) A better and open source search for node packages
+- [emma](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 
 Use [Bundlephobia](https://bundlephobia.com/) to see the cost of any npm packages
@@ -145,7 +146,6 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - Read the [tradeoffs document](https://github.com/angus-c/just/blob/master/TRADEOFFS.md) to see if Lodash is better
 - [tiny-get](https://github.com/NickGard/tiny-get) - A minimal-weight lodash.get equivalent utility
 - [auto-bind](https://github.com/sindresorhus/auto-bind) - Automatically bind methods to their class instance
-- [object-get](https://github.com/75lb/object-get) - Access nested property values at any depth with a simple expression
 - [liteready](https://github.com/nicbell/liteready) - A lightweight DOM ready.
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js
 - [attach.js](http://nicbell.github.io/attach.js/) - Attach.js removes dependancy on messy CSS selectors when attaching JavaScript to the page. Very useful for non-React/Angular/SPA projects
@@ -157,11 +157,11 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
 - [memoize-one](https://github.com/alexreardon/memoize-one) A memoization library which only remembers the latest invocation
 - [kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast.
-- [iterare: Array methods + ES6 Iterators =](https://github.com/felixfbecker/iterare)
+- [iterare](https://github.com/felixfbecker/iterare) - Array methods + ES6 Iterators =
 - [eases](https://github.com/mattdesl/eases) - a grab-bag of modular easing equations
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [lazy-value: Create a lazily evaluated value](https://github.com/sindresorhus/lazy-value)
-- [mitt: 🥊](https://github.com/developit/mitt) - Tiny 200 byte functional event emitter / pubsub.
+- [lazy-value](https://github.com/sindresorhus/lazy-value) - Create a lazily evaluated value
+- [mitt](https://github.com/developit/mitt) - Tiny 200 byte functional event emitter / pubsub.
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep
 - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
@@ -200,7 +200,6 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 ### Date
 
-- [dayjs](https://github.com/xx45/dayjs) - Fast 2KB immutable date library alternative to Moment.js with the same modern API
 - [date-fns](https://date-fns.org/) - Modern JavaScript date utility library
 - [tinydate](https://github.com/lukeed/tinydate) - A tiny (337B) reusable date formatter. Extremely fast!
 - [tinytime](https://github.com/aweary/tinytime) - ⏰ A straightforward date and time formatter in <1kb
@@ -397,6 +396,11 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [test-cors.org](http://www.test-cors.org/)
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
 
+# JSON
+- [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
+- [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+
 # HTML
 
 - [github.com/joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) the definitive resource for everything that _could_ go in the head of your document
@@ -472,7 +476,6 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) - An prototype to help designers build accessible color palettes
 - [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 - [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/)
--
 
 ### A11y Chrome extensions
 

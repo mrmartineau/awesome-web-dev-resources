@@ -1,5 +1,3 @@
-# Go-to resources
-
 <div align="center">
   <h1>
     👌

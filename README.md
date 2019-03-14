@@ -478,6 +478,7 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 ### A11y Chrome extensions
 
+- [Accessibility Insights for Web](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni)
 - [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
 - [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - has options for testing color blindness and other sight-related issues
 

@@ -114,6 +114,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Fluid-responsive font-size calculator](https://websemantics.uk/tools/responsive-font-calculator/) - To scale typography smoothly across viewport widths.
 - [Browserhacks](http://browserhacks.com/) - Browserhacks is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs
 - [Absolute centering](https://codepen.io/shshaw/full/gEiDt) - useful techniques for absolute centering in CSS
+- [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects
 
 ## CSS-in-JS
 
@@ -168,6 +169,13 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [timedstorage](https://github.com/fuhton/timedstorage) A library for storing and expiring objects in window.localstorage
 - [left-pad](https://github.com/stevemao/left-pad) - String left pad
 - [dont-go](https://github.com/tiaanduplessis/dont-go) - A small client-side library with zero dependencies to change the title and/or favicon of the page when it is inactive
+- [always-done](https://github.com/hybridables/always-done) - Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
+- [words](https://github.com/words) - Linguistic javascript modules
+- [no-scroll](https://github.com/davidtheclark/no-scroll) - Disable scrolling on an element that would otherwise scroll
+- [libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library
+- [msk](https://github.com/vtex/msk) - Small library to mask strings
+- [focus-trap](https://github.com/davidtheclark/focus-trap) - Trap focus within a DOM node
+- [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 
 ### Async
 
@@ -185,6 +193,8 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 ### Responsive
 
 - [responsive-watch](https://github.com/pauldijou/responsive-watch) - Watch some media queries and react when they change
+- [tornis](https://github.com/robb0wen/tornis)Tornis helps you watch and respond to changes in your browser's viewport 🌲
+- [actual](https://github.com/ryanve/actual) - Determine actual CSS media query breakpoints via JavaScript
 
 ### Media and Images
 
@@ -218,6 +228,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [ramjet](https://github.com/Rich-Harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
 - [anime](https://github.com/juliangarnier/anime) JavaScript Animation Engine
 - [GSAP](https://greensock.com/) the standard for JavaScript HTML5 animation | GreenSock
+- [Vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/index.html) - A smooth 3D tilt javascript library forked from Tilt.js
 
 ### Web workers
 
@@ -318,7 +329,8 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 [Fish shell](https://fishshell.com/) - The user-friendly command line shell
 
-- [my fish_config](https://github.com/mrmartineau/fish-config/blob/master/fish/config.fish)
+- [My fish_config](https://github.com/mrmartineau/fish-config/blob/master/fish/config.fish)
+- [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the amazing fish shell
 
 ## Creating CLI apps
 
@@ -395,6 +407,7 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
 
 # JSON
+
 - [JSON generator](https://next.json-generator.com/) - generate a lot of custom JSON for your app/site
 - [JSON Editor Online](https://jsoneditoronline.org/) - view/edit JSON in a better format
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -452,6 +465,8 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 - [Docusaurus](https://docusaurus.io/) Easy to Maintain Open Source Documentation Websites
 - [Docz](https://www.docz.site/)
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Design system framework for modern front-end projects
+- [Docute](https://docute.org/) - The fastest way to create a documentation site for your project
+- [playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library
 
 # Accessibility (A11y)
 
@@ -483,6 +498,8 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 - [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - has options for testing color blindness and other sight-related issues
 
 # DevOps
+
+[HTTP Status Codes](https://httpstatuses.com/)
 
 ## Continuous integration
 

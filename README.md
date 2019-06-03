@@ -93,16 +93,15 @@
 - [Shields.io](https://shields.io/) - ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 
-## Finding npm packages
+## 📦 Finding and vetting npm packages
 
-- [pika](https://www.pikapkg.com/) a searchable catalog of modern "module" packages on npm
-- [npms](https://npms.io/) A better and open source search for node packages
+- [pika](https://www.pikapkg.com/) - A searchable catalog of modern "module" packages on npm
+- [npms](https://npms.io/) - A better and open source search for node packages
 - [emma](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages
 - [npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
-
-Use [Bundlephobia](https://bundlephobia.com/) to see the cost of any npm packages
-
-Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm package. Search their database here: `https://snyk.io/vuln/npm:{package}` e.g. https://snyk.io/vuln/npm:react
+- [Bundlephobia](https://bundlephobia.com/) - See the "cost" of any npm package
+- [Snyk](https://snyk.io) - Find any security vulnerabilities for any npm package. Search their database here: `https://snyk.io/vuln/npm:{package}` e.g. https://snyk.io/vuln/npm:react
+- [runpkg](https://runpkg.com/) - Explore, learn about and perform static analysis on npm packages in the browser
 
 # 🎨 CSS
 
@@ -118,11 +117,14 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
 
 ## CSS-in-JS
 
-- [styled-components](https://styled-components.com) - CSS-in-JS for React
-- [Emotion](http://emotion.sh/) - CSS-in-JS library
-- [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Design system framework for modern front-end projects
-- [polished](https://polished.js.org/) - A lightweight toolset for writing styles in JavaScript
+- CSS-in-JS libraries
+  - [Styled Components](https://styled-components.com) - CSS-in-JS for React
+  - [Emotion](http://emotion.sh/) - CSS-in-JS library
+  - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+- [Design System Utils](https://github.com/mrmartineau/design-system-utils) - Design system framework for modern front-end projects (made by me!)
+- [Polished](https://polished.js.org/) - A lightweight toolset for writing styles in JavaScript
 - [styled-by](https://github.com/brunobertolini/styled-by) Simple and powerful lib to handle styled props in your components
+- [xstyled](https://github.com/smooth-code/xstyled) - Consistent theme based CSS for styled-components 💅
 
 # JavaScript
 
@@ -369,8 +371,10 @@ Use [Snyk](https://snyk.io) to find any security vulnerabilities for any npm pac
   - [majestic](https://github.com/Raathigesh/majestic) - Zero config UI for Jest
 - [Cypress](https://cypress.io) - end-to-end testing
   - [cypress-testing-library](https://github.com/kentcdodds/cypress-testing-library) 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices
+  - [cypress-axe](https://github.com/avanslaars/cypress-axe) - Custom commands for Cypress to run a11y checks with axe-core
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) 🐙 Simple and complete DOM testing utilities that encourage good testing practices
 - [react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.](https://github.com/kentcdodds/react-testing-library)
+  - [react-testing-library](https://react-testing-examples.com/) - React Testing Examples
 - [Chance](https://github.com/chancejs/chancejs) - Random generator helper for JavaScript
 - [faker.js](https://github.com/Marak/faker.js) generate massive amounts of fake data in Node.js and the browser
 - [nock](https://github.com/nock/nock) HTTP server mocking and expectations library for Node.js
@@ -525,10 +529,13 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 # IDEs and Text Editors
 
+[themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more)
+
 ## VSCode
 
 - [My VS Code extensions](https://gist.github.com/mrmartineau/28ef03c53275ea468e470532d6d20449)
 - [My preferences](https://gist.github.com/mrmartineau/ea3b428124bc1e31cd46dfa55469d781)
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources
 
 ## Programming fonts
 

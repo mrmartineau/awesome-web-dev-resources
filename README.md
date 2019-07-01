@@ -409,6 +409,7 @@
 - [jsonbin](https://jsonbin.org/) - A personal JSON store as a RESTful service
 - [test-cors.org](http://www.test-cors.org/)
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
+- [ExtendsClass](https://extendsclass.com/rest-client-online.html) - An online REST client 
 
 # JSON
 

@@ -125,6 +125,7 @@
 - [Polished](https://polished.js.org/) - A lightweight toolset for writing styles in JavaScript
 - [styled-by](https://github.com/brunobertolini/styled-by) Simple and powerful lib to handle styled props in your components
 - [xstyled](https://github.com/smooth-code/xstyled) - Consistent theme based CSS for styled-components 💅
+- [theme-ui](https://github.com/system-ui/theme-ui) Build consistent, themeable React apps based on constraint-based design principles
 
 # JavaScript
 
@@ -189,6 +190,8 @@
 ### Node
 
 - [Express](https://expressjs.com)
+  - [helmet](https://github.com/helmetjs/helmet) Help secure Express apps with various HTTP headers
+  - [reqresnext](https://github.com/antongolub/reqresnext) Tiny helper for express middleware testing
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 - [dumper.js](https://github.com/zeeshanu/dumper.js) A better and pretty variable inspector for your Node.js applications
 
@@ -373,7 +376,7 @@
   - [cypress-testing-library](https://github.com/kentcdodds/cypress-testing-library) 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices
   - [cypress-axe](https://github.com/avanslaars/cypress-axe) - Custom commands for Cypress to run a11y checks with axe-core
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) 🐙 Simple and complete DOM testing utilities that encourage good testing practices
-- [react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.](https://github.com/kentcdodds/react-testing-library)
+- [react-testing-library 🐐](https://github.com/testing-library/react-testing-library) Simple and complete React DOM testing utilities that encourage good testing practices
   - [react-testing-library](https://react-testing-examples.com/) - React Testing Examples
 - [Chance](https://github.com/chancejs/chancejs) - Random generator helper for JavaScript
 - [faker.js](https://github.com/Marak/faker.js) generate massive amounts of fake data in Node.js and the browser
@@ -389,6 +392,12 @@
   - [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for prettier formatting
   - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier
   - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+
+## Miscellaneous
+
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential
+- [cross-port-killer](https://github.com/milewski/cross-port-killer) Kill the process running on a given TCP port on Windows, Linux and Mac
+- [lefthook](https://github.com/Arkweid/lefthook) Fast and powerful Git hooks manager for any type of projects
 
 # Progressive Web Apps
 
@@ -535,10 +544,11 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 - [My VS Code extensions](https://gist.github.com/mrmartineau/28ef03c53275ea468e470532d6d20449)
 - [My preferences](https://gist.github.com/mrmartineau/ea3b428124bc1e31cd46dfa55469d781)
-- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) 🎨 A curated list of delightful VS Code packages and resources
 
 ## Programming fonts
 
+- [iA-Fonts: Free variable writing fonts from iA](https://github.com/iaolo/iA-Fonts)
 - [Input: Fonts for Code](http://input.fontbureau.com/)
 - [IBM Plex Mono](https://www.ibm.com/plex/)
 - [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)

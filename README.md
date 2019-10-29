@@ -14,8 +14,9 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [General resources](#general-resources)
-  - [Finding npm packages](#finding-npm-packages)
+  - [📦 Finding and vetting npm packages](#-finding-and-vetting-npm-packages)
 - [🎨 CSS](#-css)
   - [CSS-in-JS](#css-in-js)
 - [JavaScript](#javascript)
@@ -52,6 +53,7 @@
   - [Commit hooks](#commit-hooks)
 - [Testing](#testing)
   - [Code formatting and linting](#code-formatting-and-linting)
+  - [Miscellaneous](#miscellaneous)
 - [Progressive Web Apps](#progressive-web-apps)
 - [Code Sandboxes](#code-sandboxes)
 - [APIs](#apis)
@@ -79,6 +81,7 @@
   - [Programming fonts](#programming-fonts)
   - [Code colour schemes](#code-colour-schemes)
 - [Regular expressions](#regular-expressions)
+- [Miscellaneous](#miscellaneous-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -179,6 +182,10 @@
 - [msk](https://github.com/vtex/msk) - Small library to mask strings
 - [focus-trap](https://github.com/davidtheclark/focus-trap) - Trap focus within a DOM node
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
+- [obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings. Also serves as a faster & smaller drop-in replacement for the classnames module
+- [clsx](https://github.com/lukeed/clsx) - A tiny (223B) utility for constructing className strings conditionally. Also serves as a faster & smaller drop-in replacement for the classnames module
+- [xstate](https://xstate.js.org/docs) - State machines and statecharts for the modern web
+- [tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 
 ### Async
 
@@ -186,19 +193,24 @@
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
 - [awaity](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with `async` / `await` in mind
 - [loadjs](https://github.com/muicss/loadjs) A tiny async loader / dependency manager for modern browsers (789 bytes)
+- [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 
 ### Node
 
+- [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js fastify.io
 - [Express](https://expressjs.com)
   - [helmet](https://github.com/helmetjs/helmet) Help secure Express apps with various HTTP headers
   - [reqresnext](https://github.com/antongolub/reqresnext) Tiny helper for express middleware testing
+  - [lusca](https://github.com/krakenjs/lusca) - Application security for express apps
+  - [cookie-session](https://github.com/expressjs/cookie-session) - Simple cookie-based session middleware
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 - [dumper.js](https://github.com/zeeshanu/dumper.js) A better and pretty variable inspector for your Node.js applications
+- [nanomatch](https://github.com/micromatch/nanomatch) - Fast, minimal glob matcher for node.js. Similar to micromatch, minimatch and multimatch, but without support for extended globs (extglobs), posix brackets or braces, and with complete Bash 4.3 wildcard support: ("\*", "\*\*", and "?")
 
 ### Responsive
 
 - [responsive-watch](https://github.com/pauldijou/responsive-watch) - Watch some media queries and react when they change
-- [tornis](https://github.com/robb0wen/tornis)Tornis helps you watch and respond to changes in your browser's viewport 🌲
+- [tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲
 - [actual](https://github.com/ryanve/actual) - Determine actual CSS media query breakpoints via JavaScript
 
 ### Media and Images
@@ -229,7 +241,6 @@
 
 ### Animation
 
-- [Popmotion](https://github.com/Popmotion/popmotion) Simple animation libraries for delightful user interfaces
 - [ramjet](https://github.com/Rich-Harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
 - [anime](https://github.com/juliangarnier/anime) JavaScript Animation Engine
 - [GSAP](https://greensock.com/) the standard for JavaScript HTML5 animation | GreenSock
@@ -277,7 +288,9 @@
 - [react-portal](https://github.com/tajo/react-portal) React component for transportation of modals, lightboxes, loading bars... to document.body
 - [js-lingui: 🌍📖](https://github.com/lingui/js-lingui) - A readable, automated, and optimized (5 kb) internationalization (Intl / i18n) for JavaScript
 - [react-mq](https://github.com/u-wave/react-mq) - Barebones CSS media query component for React, ~560 bytes
-- [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React. This is SSR compatible as well.
+- [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React. This is SSR compatible as well
+- [Framer Motion](https://www.framer.com/motion/) - An open source React library to power production-ready animations. Design fluid animations for the web, across desktop and mobile
+- [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications
 
 ### React patterns
 
@@ -328,7 +341,8 @@
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules
 - [rollup.js](https://rollupjs.org/guide/en) - Rollup is a module bundler for JavaScript
-- [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection. Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+- [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection. Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style
+- [fastpack](https://github.com/fastpack/fastpack) - Pack JS code into a single bundle fast & easy
 
 # Command Line, Terminal and shells
 
@@ -365,6 +379,7 @@
 
 ## Commit hooks
 
+- [lefthook](https://github.com/Arkweid/lefthook) Fast and powerful Git hooks manager for any type of projects
 - [husky](https://github.com/typicode/husky) - Git hooks made easy
 - [lint-staged: 🚫💩](https://github.com/okonet/lint-staged) — Run linters on git staged files
 
@@ -372,6 +387,7 @@
 
 - [Jest](https://facebook.github.io/jest/) - Delightful JavaScript Testing
   - [majestic](https://github.com/Raathigesh/majestic) - Zero config UI for Jest
+  - [jest-date-mock](https://github.com/hustcc/jest-date-mock) - 🌗 Mock `Date` when run unit test cases with jest. Make tests of Date easier
 - [Cypress](https://cypress.io) - end-to-end testing
   - [cypress-testing-library](https://github.com/kentcdodds/cypress-testing-library) 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices
   - [cypress-axe](https://github.com/avanslaars/cypress-axe) - Custom commands for Cypress to run a11y checks with axe-core
@@ -382,6 +398,8 @@
 - [faker.js](https://github.com/Marak/faker.js) generate massive amounts of fake data in Node.js and the browser
 - [nock](https://github.com/nock/nock) HTTP server mocking and expectations library for Node.js
 - [Stryker Mutator](http://stryker-mutator.io/)
+- [benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
+- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com
 
 ## Code formatting and linting
 
@@ -397,7 +415,6 @@
 
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential
 - [cross-port-killer](https://github.com/milewski/cross-port-killer) Kill the process running on a given TCP port on Windows, Linux and Mac
-- [lefthook](https://github.com/Arkweid/lefthook) Fast and powerful Git hooks manager for any type of projects
 
 # Progressive Web Apps
 
@@ -418,6 +435,7 @@
 - [jsonbin](https://jsonbin.org/) - A personal JSON store as a RESTful service
 - [test-cors.org](http://www.test-cors.org/)
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
+- [Postwoman](https://postwoman.io/) - API request builder
 
 # JSON
 
@@ -454,7 +472,7 @@
 # Features and feature detection
 
 - [Can I Use...](https://caniuse.com/) - Browser support tables for modern web technologies (HTML5, CSS3, JavaScript etc)
-- [JavaScript compatibility table](http://kangax.github.io/compat-table/es6/)
+- [Kangax JavaScript compatibility table](http://kangax.github.io/compat-table/es6/)
 
 # Performance
 
@@ -566,6 +584,11 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 # Regular expressions
 
 - [Regex101](https://regex101.com/) Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+
+# Miscellaneous
+
+- [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
+- [mkcert](https://github.com/Subash/mkcert) - Create self signed ssl certificates without OpenSSL
 
 ---
 

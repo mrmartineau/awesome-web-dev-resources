@@ -116,7 +116,7 @@
 - [Fluid-responsive font-size calculator](https://websemantics.uk/tools/responsive-font-calculator/) - To scale typography smoothly across viewport widths.
 - [Browserhacks](http://browserhacks.com/) - Browserhacks is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs
 - [Absolute centering](https://codepen.io/shshaw/full/gEiDt) - useful techniques for absolute centering in CSS
-- [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects
+- [CSSFX](https://cssfx.netlify.com/) - Beautifully simple click-to-copy CSS effects
 
 ## CSS-in-JS
 

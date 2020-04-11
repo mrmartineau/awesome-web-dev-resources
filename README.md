@@ -92,6 +92,7 @@
 - [Badgen](https://badgen.net/) ![](https://badgen.net/badge/add/flare)
 - [Shields.io](https://shields.io/) - ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) - A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
+- [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 
 ## 📦 Finding and vetting npm packages
 
@@ -114,6 +115,7 @@
 - [Browserhacks](http://browserhacks.com/) - Browserhacks is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs
 - [Absolute centering](https://codepen.io/shshaw/full/gEiDt) - useful techniques for absolute centering in CSS
 - [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects
+- [modern-css-reset](https://github.com/hankchizljaw/modern-css-reset) - A bare-bones CSS reset for modern web development
 
 ## CSS-in-JS
 
@@ -125,7 +127,7 @@
 - [Polished](https://polished.js.org/) - A lightweight toolset for writing styles in JavaScript
 - [styled-by](https://github.com/brunobertolini/styled-by) Simple and powerful lib to handle styled props in your components
 - [xstyled](https://github.com/smooth-code/xstyled) - Consistent theme based CSS for styled-components 💅
-- [theme-ui](https://github.com/system-ui/theme-ui) Build consistent, themeable React apps based on constraint-based design principles
+- [Theme UI](https://theme-ui.com) - Build consistent, themeable React apps based on constraint-based design principles
 
 # JavaScript
 
@@ -137,6 +139,7 @@
 - [Does it mutate?](https://doesitmutate.xyz/)
 - [jsPerf](https://jsperf.com/) - JavaScript performance playground
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 
 ## Framework agnostic packages
 
@@ -160,7 +163,7 @@
 - [memoize-one](https://github.com/alexreardon/memoize-one) A memoization library which only remembers the latest invocation
 - [kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast.
 - [iterare](https://github.com/felixfbecker/iterare) - Array methods + ES6 Iterators =
-- [eases](https://github.com/mattdesl/eases) - a grab-bag of modular easing equations
+- [eases-jsnext](https://github.com/Rich-Harris/eases-jsnext) - A grab-bag of modular easing equations
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [lazy-value](https://github.com/sindresorhus/lazy-value) - Create a lazily evaluated value
 - [mitt](https://github.com/developit/mitt) - Tiny 200 byte functional event emitter / pubsub.
@@ -179,21 +182,38 @@
 - [msk](https://github.com/vtex/msk) - Small library to mask strings
 - [focus-trap](https://github.com/davidtheclark/focus-trap) - Trap focus within a DOM node
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
+- [clack](https://github.com/reasonink/clack) - A modern keyboard shortcut library written in Typescript
+  - [clack-react](https://github.com/reasonink/clack-react) - React support for @reasonink/clack
+- [js-humanize](https://github.com/ollieglass/js-humanize) - Humanize large numbers
+- [sub-in](https://github.com/peterpme/sub-in) - 🥙 A tiny (115B) find-and-replace utility for strings in Javascript
+- [color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and BKDRHash)
+- [title](https://github.com/zeit/title) - A service for capitalizing your title properly
+- [string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance
+- [cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance
+- [obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings
 
 ### Async
 
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+  - [axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
 - [awaity](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with `async` / `await` in mind
 - [loadjs](https://github.com/muicss/loadjs) A tiny async loader / dependency manager for modern browsers (789 bytes)
 
 ### Node
 
+- [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js
 - [Express](https://expressjs.com)
   - [helmet](https://github.com/helmetjs/helmet) Help secure Express apps with various HTTP headers
   - [reqresnext](https://github.com/antongolub/reqresnext) Tiny helper for express middleware testing
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 - [dumper.js](https://github.com/zeeshanu/dumper.js) A better and pretty variable inspector for your Node.js applications
+- [http-terminator](https://github.com/gajus/http-terminator) - Gracefully terminates HTTP(S) server
+- [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
+- [http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors
+- [boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
+
+[deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
 ### Responsive
 
@@ -243,8 +263,10 @@
 ### Immutable
 
 - [immer](https://github.com/mweststrate/immer) - Create the next immutable state tree by simply modifying the current tree
+  - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
 - [unchanged](https://github.com/planttheidea/unchanged) - A tiny, fast, unopinionated handler for updating JS objects and arrays immutably
 - [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objectsseamless-immutable`
+- [mutik](https://github.com/jaredpalmer/mutik) - A tiny (495B) immutable state management library based on Immer
 
 ### Typography
 
@@ -278,11 +300,17 @@
 - [js-lingui: 🌍📖](https://github.com/lingui/js-lingui) - A readable, automated, and optimized (5 kb) internationalization (Intl / i18n) for JavaScript
 - [react-mq](https://github.com/u-wave/react-mq) - Barebones CSS media query component for React, ~560 bytes
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React. This is SSR compatible as well.
+- [merge-props](https://github.com/andrewbranch/merge-props) - Merges className, style, and event handler props for React elements
+- [react-uid](https://github.com/thearnica/react-uid) - Render-less container for generating UID for a11y, consistent react key, and any other good reason 🦄
+- [clsx](https://github.com/lukeed/clsx) - A tiny (229B) utility for constructing `className` strings conditionally
 
-### React patterns
+#### React Hooks
 
+- [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [Hooks.Guide](https://www.hooks.guide/) - Collection of React hooks curated by the community
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+- [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints
 
 ### State management
 
@@ -295,6 +323,7 @@
 - [parket](https://github.com/ForsakenHarmony/parket) - A library to manage application state, heavily inspired by mobx-state-tree
 - [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 - [mergeState](https://github.com/zhujinxuan/mergeState) How to Stop Worrying and Use Nested Object/Array in React/Redux States
+- [effector](https://github.com/zerobias/effector) - The state manager ☄️
 
 ### Server-rendered React
 
@@ -320,22 +349,13 @@
 - [JSON to Typescript Interface](https://transform.now.sh/json-to-ts-interface/)
 - [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - a cheatsheet for react users using typescript with react for the first (or nth!) time
 
-# Code bundlers
-
-- [Webpack](https://webpack.js.org/) - script/asset bundler
-  - [Webpack recipes](https://github.com/mrmartineau/webpack-recipes)
-  - [ifdef-loader](https://github.com/nippur72/ifdef-loader) - Webpack loader for JavaScript/TypeScript conditional compilation
-- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
-- [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules
-- [rollup.js](https://rollupjs.org/guide/en) - Rollup is a module bundler for JavaScript
-- [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection. Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
-
 # Command Line, Terminal and shells
 
 [Fish shell](https://fishshell.com/) - The user-friendly command line shell
 
-- [My fish_config](https://github.com/mrmartineau/fish-config/blob/master/fish/config.fish)
+- [My fish_config](https://github.com/mrmartineau/fish)
 - [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the amazing fish shell
+- [Starship](https://starship.rs/) - Cross-Shell Prompt
 
 ## Creating CLI apps
 
@@ -353,6 +373,17 @@
 
 # Tooling
 
+## Code bundlers
+
+- [preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
+- [Webpack](https://webpack.js.org/) - script/asset bundler
+  - [Webpack recipes](https://github.com/mrmartineau/webpack-recipes)
+  - [ifdef-loader](https://github.com/nippur72/ifdef-loader) - Webpack loader for JavaScript/TypeScript conditional compilation
+- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+- [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules
+- [rollup.js](https://rollupjs.org/guide/en) - Rollup is a module bundler for JavaScript
+- [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection. Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+
 ## Package management and publishing
 
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -362,26 +393,37 @@
 - [Dependabot](https://dependabot.com/) - Dependabot creates pull requests to keep your dependencies secure and up-to-date
 - [npm-config](https://github.com/npm/npm/blob/1fa9169ac9687f0be4156574279a968a48dd2458/doc/misc/npm-config.md) (docs) - More than you probably want to know about npm configuration
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules with no fuss 📦👌
+- [madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 
 ## Commit hooks
 
 - [husky](https://github.com/typicode/husky) - Git hooks made easy
 - [lint-staged: 🚫💩](https://github.com/okonet/lint-staged) — Run linters on git staged files
+- [lefthook](https://github.com/Arkweid/lefthook) Fast and powerful Git hooks manager for any type of projects
 
 # Testing
 
 - [Jest](https://facebook.github.io/jest/) - Delightful JavaScript Testing
   - [majestic](https://github.com/Raathigesh/majestic) - Zero config UI for Jest
+  - [jest-chain](https://github.com/mattphillips/jest-chain) - Chain Jest matchers together to create one powerful assertion 🃏⛓
+  - [jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
+  - [snapshot-diff](https://github.com/jest-community/snapshot-diff) - Diffing snapshot utility for Jest
+  - [jest-date-mock](https://github.com/hustcc/jest-date-mock) - 🌗 Mock `Date` when run unit test cases with jest. Make tests of Date easier
 - [Cypress](https://cypress.io) - end-to-end testing
   - [cypress-testing-library](https://github.com/kentcdodds/cypress-testing-library) 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices
   - [cypress-axe](https://github.com/avanslaars/cypress-axe) - Custom commands for Cypress to run a11y checks with axe-core
+  - [start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library) 🐙 Simple and complete DOM testing utilities that encourage good testing practices
 - [react-testing-library 🐐](https://github.com/testing-library/react-testing-library) Simple and complete React DOM testing utilities that encourage good testing practices
   - [react-testing-library](https://react-testing-examples.com/) - React Testing Examples
+  - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices
 - [Chance](https://github.com/chancejs/chancejs) - Random generator helper for JavaScript
 - [faker.js](https://github.com/Marak/faker.js) generate massive amounts of fake data in Node.js and the browser
 - [nock](https://github.com/nock/nock) HTTP server mocking and expectations library for Node.js
 - [Stryker Mutator](http://stryker-mutator.io/)
+- [given2](https://github.com/tatyshev/given2) - Lazy variable evaluation for Jasmine, Mocha, Jest specs, inspired by Ruby and Rspec 💎
+
+- [ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (lat update: April 2020) (work in progress)
 
 ## Code formatting and linting
 
@@ -397,7 +439,8 @@
 
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential
 - [cross-port-killer](https://github.com/milewski/cross-port-killer) Kill the process running on a given TCP port on Windows, Linux and Mac
-- [lefthook](https://github.com/Arkweid/lefthook) Fast and powerful Git hooks manager for any type of projects
+- [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like
 
 # Progressive Web Apps
 
@@ -418,6 +461,7 @@
 - [jsonbin](https://jsonbin.org/) - A personal JSON store as a RESTful service
 - [test-cors.org](http://www.test-cors.org/)
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
+- [Mirage JS](https://miragejs.com/) - An API mocking library for frontend developers
 
 # JSON
 
@@ -553,6 +597,7 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 - [IBM Plex Mono](https://www.ibm.com/plex/)
 - [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 - [fantasque-sans: A font family with a great monospaced variant for programmers.](https://github.com/belluzj/fantasque-sans)
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
 ## Code colour schemes
 
@@ -566,6 +611,10 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 # Regular expressions
 
 - [Regex101](https://regex101.com/) Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+
+# Learning resources
+
+- [Web Skills](https://andreasbm.github.io/web-skills/?compact) - A visual overview of useful skills to learn as a web developer
 
 ---
 

@@ -14,7 +14,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [General resources](#general-resources)
   - [📦 Finding and vetting npm packages](#-finding-and-vetting-npm-packages)
 - [🎨 CSS](#-css)
@@ -202,6 +201,7 @@
 
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
   - [axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
+- [redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
 - [awaity](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with `async` / `await` in mind
 - [loadjs](https://github.com/muicss/loadjs) A tiny async loader / dependency manager for modern browsers (789 bytes)

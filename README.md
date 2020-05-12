@@ -148,109 +148,109 @@
 ### General utilities
 
 - [Lodash](https://lodash.com) - A modern JavaScript utility library delivering modularity, performance & extras.
-  ![](https://badgen.net/bundlephobia/minzip/lodash)
+  <br/>![](https://badgen.net/bundlephobia/minzip/lodash)
 - [Just](https://github.com/angus-c/just) - A library of dependency-free utilities that do just do one thing (like Lodash but smaller)
   - Install each util independently
   - Read the [tradeoffs document](https://github.com/angus-c/just/blob/master/TRADEOFFS.md) to see if Lodash is better
 - [tiny-get](https://github.com/NickGard/tiny-get) - A minimal-weight lodash.get equivalent utility
-  ![](https://badgen.net/bundlephobia/minzip/@ngard/tiny-get)
+  <br/>![](https://badgen.net/bundlephobia/minzip/@ngard/tiny-get)
 - [evt](https://www.evt.land/) - A type safe replacement for node's EventEmitter
-  ![](https://badgen.net/bundlephobia/minzip/evt)
+  <br/>![](https://badgen.net/bundlephobia/minzip/evt)
 - [liteready](https://github.com/nicbell/liteready) - A lightweight DOM ready.
-  ![](https://badgen.net/bundlephobia/minzip/lite-ready)
+  <br/>![](https://badgen.net/bundlephobia/minzip/lite-ready)
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js
-  ![](https://badgen.net/bundlephobia/minzip/passport)
+  <br/>![](https://badgen.net/bundlephobia/minzip/passport)
 - [get-size](https://github.com/desandro/get-size) - Get the size of elements
-  ![](https://badgen.net/bundlephobia/minzip/get-size)
+  <br/>![](https://badgen.net/bundlephobia/minzip/get-size)
 - [length.js](https://github.com/appalaszynski/length.js) - Library for length units conversion
-  ![](https://badgen.net/bundlephobia/minzip/length.js)
+  <br/>![](https://badgen.net/bundlephobia/minzip/length.js)
 - [action-outside](https://github.com/saschageyer/action-outside) - Invoke a callback function when clicked or tabbed outside one or multiple DOM elements
-  ![](https://badgen.net/bundlephobia/minzip/action-outside)
+  <br/>![](https://badgen.net/bundlephobia/minzip/action-outside)
 - [select-dom](https://github.com/bfred-it/select-dom) - Lightweight `querySelector`/`All` wrapper that outputs an Array
-  ![](https://badgen.net/bundlephobia/minzip/select-dom)
+  <br/>![](https://badgen.net/bundlephobia/minzip/select-dom)
 - [memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
-  ![](https://badgen.net/bundlephobia/minzip/memoizee)
+  <br/>![](https://badgen.net/bundlephobia/minzip/memoizee)
 - [memoize-one](https://github.com/alexreardon/memoize-one) - A memoization library which only remembers the latest invocation
-  ![](https://badgen.net/bundlephobia/minzip/memoize-one)
+  <br/>![](https://badgen.net/bundlephobia/minzip/memoize-one)
 - [kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast.
-  ![](https://badgen.net/bundlephobia/minzip/kind-of)
+  <br/>![](https://badgen.net/bundlephobia/minzip/kind-of)
 - [iterare](https://github.com/felixfbecker/iterare) - Array methods + ES6 Iterators =
-  ![](https://badgen.net/bundlephobia/minzip/iterare)
+  <br/>![](https://badgen.net/bundlephobia/minzip/iterare)
 - [eases-jsnext](https://github.com/Rich-Harris/eases-jsnext) - A grab-bag of modular easing equations
-  ![](https://badgen.net/bundlephobia/minzip/eases-jsnext)
+  <br/>![](https://badgen.net/bundlephobia/minzip/eases-jsnext)
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-  ![](https://badgen.net/bundlephobia/minzip/normalizr)
+  <br/>![](https://badgen.net/bundlephobia/minzip/normalizr)
 - [lazy-value](https://github.com/sindresorhus/lazy-value) - Create a lazily evaluated value
-  ![](https://badgen.net/bundlephobia/minzip/lazy-value)
+  <br/>![](https://badgen.net/bundlephobia/minzip/lazy-value)
 - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep
-  ![](https://badgen.net/bundlephobia/minzip/fast-equals)
+  <br/>![](https://badgen.net/bundlephobia/minzip/fast-equals)
 - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
-  ![](https://badgen.net/bundlephobia/minzip/fast-copy)
+  <br/>![](https://badgen.net/bundlephobia/minzip/fast-copy)
 - [compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) Utility for calculating what should be scrolled, how it's scrolled is up to you
-  ![](https://badgen.net/bundlephobia/minzip/compute-scroll-into-view)
+  <br/>![](https://badgen.net/bundlephobia/minzip/compute-scroll-into-view)
 - [arr](https://github.com/lukeed/arr) A collection of tiny, highly performant Array.prototype alternatives
-  ![](https://badgen.net/bundlephobia/minzip/arr)
+  <br/>![](https://badgen.net/bundlephobia/minzip/arr)
 - [timedstorage](https://github.com/fuhton/timedstorage) A library for storing and expiring objects in window.localstorage
-  ![](https://badgen.net/bundlephobia/minzip/timedstorage)
+  <br/>![](https://badgen.net/bundlephobia/minzip/timedstorage)
 - [left-pad](https://github.com/stevemao/left-pad) - String left pad
-  ![](https://badgen.net/bundlephobia/minzip/left-pad)
+  <br/>![](https://badgen.net/bundlephobia/minzip/left-pad)
 - [dont-go](https://github.com/tiaanduplessis/dont-go) - A small client-side library with zero dependencies to change the title and/or favicon of the page when it is inactive
-  ![](https://badgen.net/bundlephobia/minzip/dont-go)
+  <br/>![](https://badgen.net/bundlephobia/minzip/dont-go)
 - [always-done](https://github.com/hybridables/always-done) - Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
-  ![](https://badgen.net/bundlephobia/minzip/always-done)
+  <br/>![](https://badgen.net/bundlephobia/minzip/always-done)
 - [words](https://github.com/words) - Linguistic javascript modules
 - [no-scroll](https://github.com/davidtheclark/no-scroll) - Disable scrolling on an element that would otherwise scroll
-  ![](https://badgen.net/bundlephobia/minzip/no-scroll)
+  <br/>![](https://badgen.net/bundlephobia/minzip/no-scroll)
 - [libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library
-  ![](https://badgen.net/bundlephobia/minzip/libphonenumber-js)
+  <br/>![](https://badgen.net/bundlephobia/minzip/libphonenumber-js)
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
-  ![](https://badgen.net/bundlephobia/minzip/text-mask)
+  <br/>![](https://badgen.net/bundlephobia/minzip/text-mask)
 - [msk](https://github.com/vtex/msk) - Small library to mask strings
-  ![](https://badgen.net/bundlephobia/minzip/msk)
+  <br/>![](https://badgen.net/bundlephobia/minzip/msk)
 - [focus-trap](https://github.com/davidtheclark/focus-trap) - Trap focus within a DOM node
-  ![](https://badgen.net/bundlephobia/minzip/focus-trap)
+  <br/>![](https://badgen.net/bundlephobia/minzip/focus-trap)
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
-  ![](https://badgen.net/bundlephobia/minzip/pino)
+  <br/>![](https://badgen.net/bundlephobia/minzip/pino)
 - [clack](https://github.com/reasonink/clack) - A modern keyboard shortcut library written in Typescript
-  ![](https://badgen.net/bundlephobia/minzip/@reasonink/clack)
+  <br/>![](https://badgen.net/bundlephobia/minzip/@reasonink/clack)
   - [clack-react](https://github.com/reasonink/clack-react) - React support for @reasonink/clack
-    ![](https://badgen.net/bundlephobia/minzip/@reasonink/clack-react)
+    <br/>![](https://badgen.net/bundlephobia/minzip/@reasonink/clack-react)
 - [js-humanize](https://github.com/ollieglass/js-humanize) - Humanize large numbers
 - [sub-in](https://github.com/peterpme/sub-in) - 🥙 A tiny (115B) find-and-replace utility for strings in Javascript
-  ![](https://badgen.net/bundlephobia/minzip/sub-in)
+  <br/>![](https://badgen.net/bundlephobia/minzip/sub-in)
 - [color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and BKDRHash)
-  ![](https://badgen.net/bundlephobia/minzip/color-hash)
+  <br/>![](https://badgen.net/bundlephobia/minzip/color-hash)
 - [title](https://github.com/zeit/title) - A service for capitalizing your title properly
-  ![](https://badgen.net/bundlephobia/minzip/title)
+  <br/>![](https://badgen.net/bundlephobia/minzip/title)
 - [string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance
-  ![](https://badgen.net/bundlephobia/minzip/string-similarity)
+  <br/>![](https://badgen.net/bundlephobia/minzip/string-similarity)
 - [cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance
-  ![](https://badgen.net/bundlephobia/minzip/cuid)
+  <br/>![](https://badgen.net/bundlephobia/minzip/cuid)
 - [obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings. Also serves as a faster & smaller drop-in replacement for the classnames module
-  ![](https://badgen.net/bundlephobia/minzip/obj-str)
+  <br/>![](https://badgen.net/bundlephobia/minzip/obj-str)
 - [clsx](https://github.com/lukeed/clsx) - A tiny (223B) utility for constructing className strings conditionally. Also serves as a faster & smaller drop-in replacement for the classnames module
-  ![](https://badgen.net/bundlephobia/minzip/clsx)
+  <br/>![](https://badgen.net/bundlephobia/minzip/clsx)
 - [xstate](https://xstate.js.org/docs) - State machines and statecharts for the modern web
-  ![](https://badgen.net/bundlephobia/minzip/xstate)
+  <br/>![](https://badgen.net/bundlephobia/minzip/xstate)
 - [tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
-  ![](https://badgen.net/bundlephobia/minzip/tasktimer)
+  <br/>![](https://badgen.net/bundlephobia/minzip/tasktimer)
 
 ### Async
 
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-  ![](https://badgen.net/bundlephobia/minzip/axios)
+  <br/>![](https://badgen.net/bundlephobia/minzip/axios)
   - [axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
-    ![](https://badgen.net/bundlephobia/minzip/axios-retry)
+    <br/>![](https://badgen.net/bundlephobia/minzip/axios-retry)
 - [redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper
-  ![](https://badgen.net/bundlephobia/minzip/redaxios)
+  <br/>![](https://badgen.net/bundlephobia/minzip/redaxios)
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
-  ![](https://badgen.net/bundlephobia/minzip/cross-fetch)
+  <br/>![](https://badgen.net/bundlephobia/minzip/cross-fetch)
 - [awaity](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with `async` / `await` in mind
-  ![](https://badgen.net/bundlephobia/minzip/awaity)
+  <br/>![](https://badgen.net/bundlephobia/minzip/awaity)
 - [loadjs](https://github.com/muicss/loadjs) A tiny async loader / dependency manager for modern browsers (789 bytes)
-  ![](https://badgen.net/bundlephobia/minzip/loadjs)
+  <br/>![](https://badgen.net/bundlephobia/minzip/loadjs)
 - [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
-  ![](https://badgen.net/bundlephobia/minzip/await-to-js)
+  <br/>![](https://badgen.net/bundlephobia/minzip/await-to-js)
 
 ### Node
 

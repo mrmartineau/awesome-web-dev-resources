@@ -95,6 +95,7 @@
 
 - [Devdocs.io](http://devdocs.io/): Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [DevHints](https://devhints.io/): cheatsheets for many web technologies
+- [Periodic Table of Web APIs](https://wwwperiodictable.surge.sh): map of available web technologies and browser support for them
 - [Carbon](<https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&l=auto&ds=true&wc=true&wa=true&pv=32px&ph=32px&ln=false>): use this to share images of your code in presentations etc
 - [Badgen](https://badgen.net/): ![](https://badgen.net/badge/add/flare)
 - [Shields.io](https://shields.io/): ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes

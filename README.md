@@ -125,6 +125,12 @@
 - [CSSFX](https://cssfx.netlify.com/): Beautifully simple click-to-copy CSS effects
 - [Shape Divider App](https://www.shapedivider.app/)
 
+## Design Frameworks
+
+ - [Kirby Design Framework](https://cookbook.kirby.design/)
+ - [Material Design](https://material.io/design)
+ - [Bootstrap CSS - Build fast, responsive sites](https://getbootstrap.com/)
+
 ## CSS-in-JS
 
 - CSS-in-JS libraries

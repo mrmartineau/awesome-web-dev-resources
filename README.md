@@ -16,8 +16,9 @@
 <!-- code_chunk_output -->
 
 - [General resources](#general-resources)
-  - [📦 Finding and vetting npm packages](#finding-and-vetting-npm-packages)
-- [🎨 CSS](#css)
+  - [Really useful tools](#really-useful-tools)
+  - [📦 Finding and vetting npm packages](#-finding-and-vetting-npm-packages)
+- [🎨 CSS](#-css)
   - [CSS-in-JS](#css-in-js)
 - [JavaScript](#javascript)
   - [Useful JS links](#useful-js-links)
@@ -42,8 +43,8 @@
       - [React Hooks](#react-hooks)
     - [State management](#state-management)
     - [Server-rendered React](#server-rendered-react)
-    - [Static site generators](#static-site-generators)
-    - [Microservices/Serverless](#microservicesserverless)
+  - [Static site generators](#static-site-generators)
+  - [Microservices/Serverless](#microservicesserverless)
   - [TypeScript](#typescript)
 - [Command Line, Terminal and shells](#command-line-terminal-and-shells)
   - [Creating CLI apps](#creating-cli-apps)
@@ -101,10 +102,33 @@
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 - [browser-2020](https://github.com/luruke/browser-2020): Things you can do with a browser in 2020 ☕️
 
+## Really useful tools
+
+These are tools that I use often and that I find useful.
+
+- [Bundlephobia](https://bundlephobia.com/): Size of npm dependencies
+- [Transform.tools](https://transform.tools/): Transform your code with a few clicks. I most commonly use [this tool](https://transform.tools/json-to-typescript) to convert JSON to TypeScript interfaces
+- [Unicode code converter](https://r12a.github.io/app-conversion/)
+- [svgomg](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
+- [JSON Editor Online](https://jsoneditoronline.org/beta): view, edit and format JSON online
+- [Squoosh](https://squoosh.app/): image compressor
+- [Epoch Convert](https://www.epochconvert.com/): Online Unix Timestamp Converter
+- [CopyChar](https://copychar.cc/): Copy special characters to your clipboard
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
+- [Tiny Helpers](https://tiny-helpers.dev/latest/): A collection of free single-purpose online tools for web developers...
+- [Whitespaces](https://kirillbelyaev.com/s/) and zero width ​characters with buttons for copying to clipboard, short mnemonics and usage comments
+- [CSS2JS](https://css2js.dotenv.dev/): Convert CSS to JS object. There's also a good VS Code extension for this as well: [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js)https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js
+- [Smooth Shadow](https://shadows.brumm.af/): Make a smooth shadow
+- [Crontab.guru](https://crontab.guru/): The cron schedule expression editor
+- [Key.js](https://keyjs.dev/#keyboard-events-inspector): JavaScript keyboard event key codes & key identifiers
+- [Glob tester](https://globster.xyz/): tool for testing glob patterns
+- [HTML De-crapulator](https://a11y-tools.com/markup-de-crapulator/index.html)
+- [px-rem-em converter](https://px-rem-em-converter.zander.wtf/) by me
+
 ## 📦 Finding and vetting npm packages
 
-- [pika](https://www.pikapkg.com/): A searchable catalog of modern "module" packages on npm
 - [npms](https://npms.io/): A better and open source search for node packages
+- [pika](https://www.pikapkg.com/): A searchable catalog of modern "module" packages on npm
 - [emma](https://github.com/maticzav/emma-cli): 📦 Terminal assistant to find and install node packages
 - [npmvet](https://github.com/harksys/npmvet): A simple CLI tool for vetting npm package versions
 - [Bundlephobia](https://bundlephobia.com/): See the "cost" of any npm package
@@ -128,9 +152,12 @@
 ## CSS-in-JS
 
 - CSS-in-JS libraries
+  - [Stitches](https://stitches.dev/) — CSS-in-JS with near-zero runtime
+  - [vanilla-extract](https://vanilla-extract.style/): Zero-runtime Stylesheets-in-TypeScript
   - [Styled Components](https://styled-components.com): CSS-in-JS for React
   - [Emotion](http://emotion.sh/): CSS-in-JS library
   - [linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
+  - [goober](https://goober.rocks/): A less than 1KB css-in-js solution
 - [Design System Utils](https://github.com/mrmartineau/design-system-utils): Design system framework for modern front-end projects (made by me!)
 - [Polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [styled-by](https://github.com/brunobertolini/styled-by): Simple and powerful lib to handle styled props in your components
@@ -180,6 +207,7 @@
 - [left-pad](https://github.com/stevemao/left-pad): String left pad
 - [dont-go](https://github.com/tiaanduplessis/dont-go): A small client-side library with zero dependencies to change the title and/or favicon of the page when it is inactive
 - [always-done](https://github.com/hybridables/always-done): Handle completion and errors with elegance! Support for async/await, promises, callbacks, streams and observables. A drop-in replacement for async-done - pass 100% of its tests plus more
+- [title](https://github.com/zeit/title): A service for capitalizing your title properly
 - [words](https://github.com/words): Linguistic javascript modules
 - [no-scroll](https://github.com/davidtheclark/no-scroll): Disable scrolling on an element that would otherwise scroll
 - [libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js): A simpler (and smaller) rewrite of Google Android's libphonenumber library
@@ -190,9 +218,9 @@
 - [clack](https://github.com/reasonink/clack): A modern keyboard shortcut library written in Typescript
   - [clack-react](https://github.com/reasonink/clack-react): React support for @reasonink/clack
 - [js-humanize](https://github.com/ollieglass/js-humanize): Humanize large numbers
+- [pupa](https://github.com/sindresorhus/pupa): Simple micro templating
 - [sub-in](https://github.com/peterpme/sub-in): 🥙 A tiny (115B) find-and-replace utility for strings in Javascript
 - [color-hash](https://github.com/zenozeng/color-hash): Generate color based on the given string (using HSL color space and BKDRHash)
-- [title](https://github.com/zeit/title): A service for capitalizing your title properly
 - [string-similarity](https://github.com/aceakash/string-similarity): Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance
 - [cuid](https://github.com/ericelliott/cuid): Collision-resistant ids optimized for horizontal scaling and performance
 - [obj-str](https://github.com/lukeed/obj-str): A tiny (96B) library for serializing Object values to Strings. Also serves as a faster & smaller drop-in replacement for the classnames module
@@ -200,6 +228,10 @@
 - [xstate](https://xstate.js.org/docs): State machines and statecharts for the modern web
 - [tasktimer](https://github.com/onury/tasktimer): An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 - [rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page
+- [ouml](https://github.com/smlsvnssn/ouml): ö.js is a small collection of useful stuff
+- [is](https://github.com/sindresorhus/is): Type check values
+- [big.js](https://github.com/MikeMcl/big.js): A small, fast JavaScript library for arbitrary-precision decimal arithmetic
+- [js-proper-url-join](https://github.com/moxystudio/js-proper-url-join): Like path.join but for a URL
 
 ### Async
 
@@ -235,6 +267,7 @@
 - [pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger 🌲
 - [caterpillar](https://github.com/bevry/caterpillar): Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers
 - [cabin](https://github.com/cabinjs/cabin): Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [consola](https://github.com/unjs/consola): Elegant Console Logger for Node.js and Browser 🐨
 
 ### Responsive
 
@@ -302,6 +335,7 @@
 
 - [create-react-app](https://github.com/facebook/create-react-app): Create React apps with no build configuration
   - [react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
+- [react-philosophies](https://github.com/mithi/react-philosophies): Things I think about when I write React code
 - [react-bits](https://github.com/vasanthk/react-bits): ✨ React patterns, techniques, tips and tricks ✨
 
 ### React-specific libs:
@@ -337,9 +371,12 @@
 - [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
 - [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks): 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks): Deliver experiences best suited to a user's device and network constraints
+- [use-local-storage-state](https://github.com/astoilkov/use-local-storage-state): React hook that persists data in localStorage
+- [Rooks](https:///docs/hooks-list/): Collection of React hooks ⚓ for everyone
 
 ### State management
 
+- [jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible state management for React
 - [zustand](https://github.com/react-spring/zustand): 🐻 Bear necessities for state management in React
 - [redux](https://github.com/reduxjs/redux): Predictable state container for JavaScript apps
   - [reselect](https://github.com/reduxjs/reselect): Selector library for Redux
@@ -358,11 +395,12 @@
 - [Next.js](https://nextjs.org/) ([repo](https://github.com/zeit/next.js)): - Framework for server-rendered or statically-exported React apps
   - [next-plugins](https://github.com/zeit/next-plugins)
 
-### Static site generators
+## Static site generators
 
 - [Gatsby](https://www.gatsbyjs.org/): Blazing fast static site generator for React
+- [Eleventy](https://www.11ty.dev/): A simpler static site generator
 
-### Microservices/Serverless
+## Microservices/Serverless
 
 - [micro](https://github.com/zeit/micro)
   - [awesome-micro](https://github.com/amio/awesome-micro)
@@ -377,6 +415,7 @@
 - [JSON to Typescript Interface](https://transform.now.sh/json-to-ts-interface/)
 - [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet): a cheatsheet for react users using typescript with react for the first (or nth!) time
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript): Clean Code concepts adapted for TypeScript
+- [type-fest](https://github.com/sindresorhus/type-fest): A collection of essential TypeScript types
 
 # Command Line, Terminal and shells
 
@@ -396,7 +435,6 @@
 
 ## CLI apps
 
-- [hub](https://hub.github.com/): hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal
 - [serve](https://github.com/zeit/serve): Static file serving and directory listing
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps): A curated list of command line apps
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim): A community-driven modular vim distribution - The ultimate vim configuration
@@ -405,6 +443,9 @@
 
 ## Code bundlers
 
+- [Vite](https://vitejs.dev/): Next Generation Frontend Tooling
+- [esbuild](https://esbuild.github.io/): An extremely fast JavaScript bundler
+- [swc](https://github.com/swc-project/swc): swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript
 - [preconstruct](https://github.com/preconstruct/preconstruct): 🎁 Dev and build your code painlessly in monorepos
 - [Webpack](https://webpack.js.org/): script/asset bundler
   - [Webpack recipes](https://github.com/mrmartineau/webpack-recipes)
@@ -438,13 +479,13 @@
 - [Jest](https://facebook.github.io/jest/): Delightful JavaScript Testing
   - [majestic](https://github.com/Raathigesh/majestic): Zero config UI for Jest
   - [jest-chain](https://github.com/mattphillips/jest-chain): Chain Jest matchers together to create one powerful assertion 🃏⛓
-  - [jest-extended](https://github.com/jest-community/jest-extended): - Additional Jest matchers 🃏💪
+  - [jest-extended](https://github.com/jest-community/jest-extended): Additional Jest matchers 🃏💪
   - [snapshot-diff](https://github.com/jest-community/snapshot-diff): Diffing snapshot utility for Jest
   - [jest-date-mock](https://github.com/hustcc/jest-date-mock): 🌗 Mock `Date` when run unit test cases with jest. Make tests of Date easier
 - [Cypress](https://cypress.io): end-to-end testing
   - [cypress-testing-library](https://github.com/kentcdodds/cypress-testing-library): 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices
   - [cypress-axe](https://github.com/avanslaars/cypress-axe): Custom commands for Cypress to run a11y checks with axe-core
-  - [start-server-and-test](https://github.com/bahmutov/start-server-and-test): - Starts server, waits for URL, then runs test command; when the tests end, shuts down server
+  - [start-server-and-test](https://github.com/bahmutov/start-server-and-test): Starts server, waits for URL, then runs test command; when the tests end, shuts down server
 - [dom-testing-library](https://github.com/kentcdodds/dom-testing-library): 🐙 Simple and complete DOM testing utilities that encourage good testing practices
 - [react-testing-library 🐐](https://github.com/testing-library/react-testing-library): Simple and complete React DOM testing utilities that encourage good testing practices
   - [react-testing-library](https://react-testing-examples.com/): React Testing Examples
@@ -467,7 +508,7 @@
 - [Eslint](https://eslint.org)
   - [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier): ESLint plugin for prettier formatting
   - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier): Turns off all rules that are unnecessary or might conflict with Prettier
-  - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react): - React specific linting rules for ESLint
+  - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react): React specific linting rules for ESLint
 
 ## Miscellaneous
 
@@ -504,6 +545,7 @@
   - [Apollo Client (React)](https://www.apollographql.com/docs/react/): Apollo React GraphQL Docs
   - [graphql-directives](https://github.com/Saeris/graphql-directives): 🧭 A collection of custom GraphQL Schema Directives for use with Apollo Server
 - [urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client
+- [graphql-request](https://github.com/prisma-labs/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [graphql-lodash](https://github.com/APIs-guru/graphql-lodash): 🛠 Data manipulation for GraphQL queries with lodash syntax
 
 # JSON
@@ -590,10 +632,10 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 ## A11y tools and resources:
 
-- [Interactive WCAG](http://code.viget.com/interactive-wcag/): guidelines - cheatsheet for A, AA & AAA
+- [Interactive WCAG](http://code.viget.com/interactive-wcag/): guidelines/cheatsheet for A, AA & AAA
 - [awesome-a11y](https://github.com/brunopulis/awesome-a11y): massive list of a11y-related resources & information
 - [tenon.io](https://tenon.io/): a11y tester
-- [a11yproject.com/checklist.html](http://a11yproject.com/checklist.html): - a11y checklist
+- [a11yproject.com/checklist.html](http://a11yproject.com/checklist.html): a11y checklist
 - [a11yproject.com](http://a11yproject.com/): a11y resources
 - [w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/): list of a11y tools from the W3C
 - [allyjs.io](https://allyjs.io/index.html): JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler

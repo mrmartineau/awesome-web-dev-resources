@@ -721,6 +721,7 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 # Learning resources
 
 - [Web Skills](https://andreasbm.github.io/web-skills/?compact): A visual overview of useful skills to learn as a web developer
+- [Web Development Roadmap](https://www.scaler.com/blog/web-development-roadmap/): Learn about the latest trends and skills to stay ahead in the ever-changing world of web development.
 
 ---
 

@@ -611,6 +611,7 @@ These are tools that I use often and that I find useful.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [Calibre](https://calibreapp.com/)
 - [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/) by Cloudinary
+- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner: SEO, accessibility, and performance scores with AI analysis.
 
 # Design
 

@@ -635,6 +635,7 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 - [Interactive WCAG](http://code.viget.com/interactive-wcag/): guidelines/cheatsheet for A, AA & AAA
 - [awesome-a11y](https://github.com/brunopulis/awesome-a11y): massive list of a11y-related resources & information
 - [tenon.io](https://tenon.io/): a11y tester
+- [RatedWithAI](https://ratedwithai.com/): AI-powered accessibility scanner with detailed explanations and actionable fix guidance
 - [a11yproject.com/checklist.html](http://a11yproject.com/checklist.html): a11y checklist
 - [a11yproject.com](http://a11yproject.com/): a11y resources
 - [w3.org/WAI/ER/tools/](https://www.w3.org/WAI/ER/tools/): list of a11y tools from the W3C
@@ -644,7 +645,7 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 - [A11y Style-guide](http://a11y-style-guide.com/style-guide/): markup examples and best practices
 - [Inclusive Components](https://inclusive-components.design/): A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
 - [Color contrast checker](http://leaverou.github.io/contrast-ratio/)
-- [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/): An prototype to help designers build accessible color palettes
+- [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/): An prototype to help designers build accessible color pallets
 - [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 - [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/)
 - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/): Guidance on how to create websites that meet WCAG

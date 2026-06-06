@@ -552,6 +552,7 @@ These are tools that I use often and that I find useful.
 
 - [JSON generator](https://next.json-generator.com/): generate a lot of custom JSON for your app/site
 - [JSON Editor Online](https://jsoneditoronline.org/): view/edit JSON in a better format
+- [JSONViewerTool](https://jsonviewertool.com/): view, format, validate and convert JSON — 100% client-side, nothing uploaded
 - [fx](https://github.com/antonmedv/fx): Command-line tool and terminal JSON viewer 🔥
 
 # HTML

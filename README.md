@@ -282,6 +282,7 @@ These are tools that I use often and that I find useful.
 
 #### Image services
 
+  - [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload): Upload images and copy direct URL, Markdown, HTML, or BBCode links for README files, docs, GitHub issues, and forums.
 - [sharp](https://github.com/lovell/sharp): High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 - [IMGIX](https://www.imgix.com/): Real-time image processing and image CDN
 

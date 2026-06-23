@@ -124,6 +124,7 @@ These are tools that I use often and that I find useful.
 - [Glob tester](https://globster.xyz/): tool for testing glob patterns
 - [HTML De-crapulator](https://a11y-tools.com/markup-de-crapulator/index.html)
 - [px-rem-em converter](https://px-rem-em-converter.zander.wtf/) by me
+- [powerfulwebsites.online](https://powerfulwebsites.online/): A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant
 
 ## 📦 Finding and vetting npm packages
 

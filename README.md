@@ -124,6 +124,7 @@ These are tools that I use often and that I find useful.
 - [Glob tester](https://globster.xyz/): tool for testing glob patterns
 - [HTML De-crapulator](https://a11y-tools.com/markup-de-crapulator/index.html)
 - [px-rem-em converter](https://px-rem-em-converter.zander.wtf/) by me
+- [Brevio](https://brevio.pro) - Free in-browser dev utilities (JSON formatter, JWT decoder, base64, hash, UUID, regex, diff, and more). Everything runs client-side — no upload, no account, works offline.
 
 ## 📦 Finding and vetting npm packages
 

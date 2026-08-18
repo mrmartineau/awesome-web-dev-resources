@@ -101,6 +101,7 @@
 - [Shields.io](https://shields.io/): ![](https://img.shields.io/badge/add-flare-green.svg?style=flat-square) to your documentation/readmes
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 - [browser-2020](https://github.com/luruke/browser-2020): Things you can do with a browser in 2020 ☕️
+- [Sample Files](https://mzeeshan.me/tools/sample-files/): Collection of use case based dummy files in various formats for testing and QA.
 
 ## Really useful tools
 

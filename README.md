@@ -124,6 +124,7 @@ These are tools that I use often and that I find useful.
 - [Glob tester](https://globster.xyz/): tool for testing glob patterns
 - [HTML De-crapulator](https://a11y-tools.com/markup-de-crapulator/index.html)
 - [px-rem-em converter](https://px-rem-em-converter.zander.wtf/) by me
+- [Nutilz](https://nutilz.com/): Free browser-based developer utilities including regex tester, JSON formatter, timestamp converter, unit converter, and more
 
 ## 📦 Finding and vetting npm packages
 

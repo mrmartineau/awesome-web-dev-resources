@@ -410,6 +410,7 @@ These are tools that I use often and that I find useful.
 [typescriptlang.org](https://www.typescriptlang.org/)
 
 - [What's new in TypeScript](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript): Microsoft/TypeScript Wiki
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Free and open-source TypeScript book covering fundamentals through advanced concepts, with 10,300+ stars on GitHub.
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 - [TypeScript Evolution](https://blog.mariusschulz.com/series/typescript-evolution)
 - [JSON to Typescript Interface](https://transform.now.sh/json-to-ts-interface/)

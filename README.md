@@ -438,6 +438,7 @@ These are tools that I use often and that I find useful.
 - [serve](https://github.com/zeit/serve): Static file serving and directory listing
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps): A curated list of command line apps
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim): A community-driven modular vim distribution - The ultimate vim configuration
+- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor): Dependency-free CLI for checking sitemap URL cohorts and comparing releases
 
 # Tooling
 

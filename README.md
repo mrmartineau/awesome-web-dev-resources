@@ -341,7 +341,6 @@ These are tools that I use often and that I find useful.
 ### React-specific libs:
 
 - [Markstream React](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-react): Streaming Markdown renderer for React and AI chat interfaces, with Mermaid, KaTeX, code highlighting and SSR support.
-
 - [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Containers
 - [formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭
 - [react-router](https://github.com/ReactTraining/react-router): Declarative routing for React

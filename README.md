@@ -537,6 +537,7 @@ These are tools that I use often and that I find useful.
 - [Reqres](https://reqres.in/): A hosted REST-API ready to respond to your AJAX requests
 - [Mirage JS](https://miragejs.com/): An API mocking library for frontend developers
 - [Postwoman](https://postwoman.io/): API request builder
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and booking contacts
 
 ## GraphQL
 
